@@ -3,7 +3,6 @@ import {
   resolveConfiguration,
   defaultConfiguration,
   InputConfiguration,
-  Configuration,
 } from './configuration';
 
 describe('resolveConfiguration', () => {
